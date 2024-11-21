@@ -6,10 +6,10 @@ public class PrimeCheck {
         System.out.print("Enter a number: ");
         // int num = scanner.nextInt();
         // scanner.close();
-        int num = 7;
+        int num = 9;
 
         if (isPrime(num)) {
-            System.out.println(num + " is a prime number.");
+            System.out.println(num + " is a prime number .");
         } else {
             System.out.println(num + " is not a prime number.");
         }
